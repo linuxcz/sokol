@@ -14,19 +14,19 @@ const links = [
 },
   {
     label: 'Buď Sokolem',
-    to: 'bud-sokolem'
+    to: '/bud-sokolem'
   },
   {
     label: 'Projekty',
-    to: 'projekty'
+    to: '/projekty'
   },
   {
     label: 'Historie',
-    to: 'historie'
+    to: '/historie'
   },
   {
     label: 'Kontakty',
-    to: 'kontakty'
+    to: '/kontakty'
   },
 ]
 </script>
