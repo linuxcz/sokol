@@ -4,11 +4,6 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-overrides:
-  '@unhead/dom': ^1.8.11
-  '@unhead/ssr': ^1.8.11
-  '@unhead/vue': ^1.8.11
-
 dependencies:
   '@iconify-json/heroicons':
     specifier: ^1.1.20
