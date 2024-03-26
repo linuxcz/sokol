@@ -2225,7 +2225,7 @@
   resolved "https://registry.yarnpkg.com/@ungap/structured-clone/-/structured-clone-1.2.0.tgz#756641adb587851b5ccb3e095daf27ae581c8406"
   integrity sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==
 
-"@unhead/dom@1.8.11", "@unhead/dom@^1.7.0", "@unhead/dom@^1.8.10", "@unhead/dom@^1.8.11":
+"@unhead/dom@1.8.11", "@unhead/dom@^1.7.0", "@unhead/dom@^1.8.10":
   version "1.8.11"
   resolved "https://registry.yarnpkg.com/@unhead/dom/-/dom-1.8.11.tgz#217c0d70a5659554f1cb589cbad65a950c48e084"
   integrity sha512-B5Bae4Y+6/2oDlfNJwEuf1kApyM4pmZ01VReWcVDYAdZpkD7eZZoVZnF945MluaMb6SMvGIXejcSUXTH/BOWaQ==
@@ -2256,7 +2256,7 @@
   dependencies:
     "@unhead/schema" "1.8.11"
 
-"@unhead/ssr@^1.7.0", "@unhead/ssr@^1.8.10", "@unhead/ssr@^1.8.11":
+"@unhead/ssr@^1.7.0", "@unhead/ssr@^1.8.10":
   version "1.8.11"
   resolved "https://registry.yarnpkg.com/@unhead/ssr/-/ssr-1.8.11.tgz#3b0a317c16ae626f0b190497db4f1245730d305e"
   integrity sha512-5LI+uzcNu2FQp2IOoRQSaWWPDBQNXIuOvcZfxUDKzj0GMdqHRaugPdf44Jje7SmG7RsPhOR9DHKDtuCJ65zcaw==
@@ -2264,7 +2264,7 @@
     "@unhead/schema" "1.8.11"
     "@unhead/shared" "1.8.11"
 
-"@unhead/vue@^1.7.0", "@unhead/vue@^1.8.10", "@unhead/vue@^1.8.11":
+"@unhead/vue@^1.7.0", "@unhead/vue@^1.8.10":
   version "1.8.11"
   resolved "https://registry.yarnpkg.com/@unhead/vue/-/vue-1.8.11.tgz#350548dd7de05d99d9acc99519b23139e911cf13"
   integrity sha512-yEpQaBYQsqld3m6lexMP+Vf0+j2UdY/QIO98b7v2XBm200ruZmRvI4IJDMrI8cODVwSnwQWHDLF2upXlNeQ4Qg==

@@ -40,8 +40,8 @@ function onSubmit (data: any) {
 }
 </script>
 
-<!-- eslint-disable vue/multiline-html-element-content-newline -->
-<!-- eslint-disable vue/singleline-html-element-content-newline -->
+<!-- eslint-disable vue/multiline-html-element-content2-newline -->
+<!-- eslint-disable vue/singleline-html-element-content2-newline -->
 <template>
   <UCard class="max-w-sm w-full bg-white/75 dark:bg-white/5 backdrop-blur">
     <UAuthForm

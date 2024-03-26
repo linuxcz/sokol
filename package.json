@@ -23,11 +23,6 @@
     "nuxt": "^3.10.3",
     "nuxt-og-image": "^2.2.4"
   },
-  "resolutions": {
-    "@unhead/dom": "^1.8.11",
-    "@unhead/ssr": "^1.8.11",
-    "@unhead/vue": "^1.8.11"
-  },
   "devDependencies": {
     "@hypernym/nuxt-anime": "^2.1.1",
     "@nuxt/eslint-config": "^0.2.0",
